@@ -1,0 +1,5 @@
+hub HubdePrueba
+shortLabel Hub de Prueba
+longLabel Name up to 80 characters versus shortLabel limited to 17 characters
+genomesFile genomes.txt
+email  diego.mena@cnic.es
