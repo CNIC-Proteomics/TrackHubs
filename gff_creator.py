@@ -4,7 +4,7 @@
 
 # Module metadata variables
 __author__ = "Diego Mena Santos"
-__credits__ = ["Diego Mena Santos", "Jose Rodriguez", "Jesus Vazquez"]
+__credits__ = ["Diego Mena Santos", "Jose Rodriguez"]
 __license__ = "Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License https://creativecommons.org/licenses/by-nc-nd/4.0/"
 __version__ = "0.1.0"
 __maintainer__ = "Diego Mena Santos"
